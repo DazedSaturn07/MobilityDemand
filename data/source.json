@@ -1,0 +1,16 @@
+{
+  "title": "Bike Sharing",
+  "creator": "Hadi Fanaee-T",
+  "publisher": "UCI Machine Learning Repository",
+  "doi": "https://doi.org/10.24432/C5W894",
+  "url": "https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset",
+  "download_url": "https://archive.ics.uci.edu/static/public/275/bike+sharing+dataset.zip",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "citation": "Fanaee-T, H. (2013). Bike Sharing [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5W894.",
+  "paper": "Fanaee-T, H. and Gama, J. (2013). Event labeling combining ensemble detectors and background knowledge. https://doi.org/10.1007/s13748-013-0040-3",
+  "file": "hour.csv",
+  "rows": 17379,
+  "sha256": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f",
+  "notes": "Byte-identical to hour.csv in the official UCI ZIP, verified on 2026-10-25. No original download date is claimed. UCI page count differs; row count here is measured from the CSV."
+}
